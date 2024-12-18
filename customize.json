@@ -1,5 +1,5 @@
 {
-  "greeting": "Hiya",
+  "greeting": "As-salamu alaykum",
   "name": "Somaya",
   "greetingText": "haha! bhuli ni!",
   "wishText": "Have a great year!",
@@ -11,13 +11,13 @@
   "text3": "Tarpor hothat egular kotha mone porlo!",
   "text4": "Vablam dekhi ki banano jay!",
   "text4Adjective": "Mojar Kichu",
-  "text5Entry": "Because,",
-  "text5Content": "You are Special",
+  "text5Entry": "Karon,",
+  "text5Content": "por e abar mone thakbe na!",
   "smiley": ":)",
   "bigTextPart1": "S",
   "bigTextPart2": "O",
   "wishHeading": "Happy Birthday!",
-  "outroText": "Okay, now come back and tell me if you liked it.",
+  "outroText": "Allah Hafiz",
   "replayText": "Or click, if you want to watch it again.",
   "outroSmiley": ":)"
 }
